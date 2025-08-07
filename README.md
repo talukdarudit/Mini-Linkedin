@@ -34,3 +34,5 @@ then,
   npm install
   npm run dev
 ```
+### Live URL
+https://mini-linkedin-b0fj.onrender.com/
