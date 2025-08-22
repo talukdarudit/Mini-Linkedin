@@ -169,7 +169,7 @@ const SignUpPage = () => {
 
       <AuthImagePattern
         title="Join our app"
-        subtitle="Coonect with your colleagues."
+        subtitle="Network with your colleagues."
       />
     </div>
   );
